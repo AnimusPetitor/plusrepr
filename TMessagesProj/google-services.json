@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "808975217314",
+    "project_id": "polish-telelgram-unofficial"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808975217314:android:97d1f3148685d1f4",
+        "android_client_info": {
+          "package_name": "org.telegram.plus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808975217314-ebt02brbshjbjpc807cevgqj6g813rre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF1buCmvqBhxBdLufwOEcTalF8T4fMI3Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
